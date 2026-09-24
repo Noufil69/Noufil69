@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=Noufil+Naveed;Backend+Developer+%7C+API+Engineer+%7C+QA" alt="Typing SVG" /></a>
 
 <!-- Short bio - clean, no cringe -->
-`BSCS @ Iqra University` · `Building APIs that actually work` · `Open to opportunities in Ireland & Australia`
+`BSCS student` · `Building APIs that actually work`
 
 ---
 
@@ -15,7 +15,7 @@
 ```yaml
 name: Noufil Naveed
 location: Karachi, Pakistan 
-education: BSCS - Iqra University (3.4 CGPA)
+education: BSCS student
 focus: Backend APIs, Testing, DevOps
 currently_learning: Node.js, Express, PostgreSQL, Jest
 open_to: Part-time junior roles in backend / API / QA
@@ -68,10 +68,9 @@ fun_fact: I debug better under pressure
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [Task Manager API](https://github.com/Noufil69) | REST API with auth, CRUD, full test suite | Node.js, Express, PostgreSQL, Jest |
-| [API Aggregator](https://github.com/Noufil69) | Aggregates multiple public APIs with caching | Python, FastAPI, Redis |
-| [Traffic Optimization](https://github.com/Noufil69) | Automated traffic system using Lagrange multipliers | Python |
-| [CIFAR-10 Classifier](https://github.com/Noufil69) | Image classification using deep learning | Python, TensorFlow |
+| [Portfolio Site](https://noufilnaveed.com) | My personal site and project showcase | Next.js, Tailwind CSS |
+| [F1 Telemetry Replay](https://github.com/Noufil69/f1-telemetry) | Live and historical F1 telemetry, any race/driver since 2023, real-time via WebSockets | Node.js, Express, Socket.io, PostgreSQL |
+| [URL Shortener](https://urlshortener.noufilnaveed.com) | Full-stack URL shortening service with live frontend | Node.js, Express, PostgreSQL |
 
 ---
 
